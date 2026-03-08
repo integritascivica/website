@@ -16,7 +16,7 @@
   --color-accent: #2c5f8a;
   --color-accent-dark: #1e4263;
   --color-border: #ddd;
-  --max-width: 48rem;
+  --max-width: 52rem;
   --space-xs: 0.5rem;
   --space-sm: 1rem;
   --space-md: 2rem;
@@ -64,7 +64,7 @@ h1, h2, h3, h4 {
 }
 
 h1 {
-  font-size: 2rem;
+  font-size: clamp(1.75rem, 1.5rem + 1vw, 2.25rem);
   margin-bottom: var(--space-sm);
 }
 
@@ -183,7 +183,7 @@ main {
 }
 
 .hero h1 {
-  font-size: 2.25rem;
+  font-size: clamp(1.75rem, 1.25rem + 2vw, 2.75rem);
 }
 
 .hero .tagline {
@@ -291,6 +291,15 @@ footer a {
 
 /* ===== Responsive ===== */
 
+@media (max-width: 860px) {
+  main {
+    padding: var(--space-md) var(--space-md);
+  }
+  .card-grid {
+    grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
+  }
+}
+
 @media (max-width: 640px) {
   .header-inner {
     flex-direction: column;
@@ -302,16 +311,17 @@ footer a {
     justify-content: center;
   }
 
-  .hero h1 {
-    font-size: 1.75rem;
-  }
-
   main {
     padding: var(--space-md) var(--space-sm);
   }
 
   .cta-group {
     flex-direction: column;
+  }
+
+  .card-grid {
+    grid-template-columns: 1fr;
+    gap: var(--space-sm);
   }
 
   .btn {
