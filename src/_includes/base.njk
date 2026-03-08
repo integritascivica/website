@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ title }} — {{ site.name }}</title>
+  <meta name="description" content="{{ description or site.description }}">
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+  <link rel="stylesheet" href="/css/style.css">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "{{ site.url }}/#organization",
+        "name": "{{ site.name }}",
+        "url": "{{ site.url }}",
+        "description": "{{ site.description }}",
+        "sameAs": [
+          "{{ site.social.youtube }}",
+          "{{ site.social.substack }}",
+          "{{ site.social.facebook }}",
+          "{{ site.social.instagram }}",
+          "{{ site.social.twitter }}",
+          "{{ site.social.bluesky }}",
+          "{{ site.social.linkedin }}",
+          "{{ site.social.tiktok }}",
+          "{{ site.social.threads }}",
+          "{{ site.social.mastodon }}"
+        ]
+      },
+      {
+        "@type": "WebSite",
+        "@id": "{{ site.url }}/#website",
+        "url": "{{ site.url }}",
+        "name": "{{ site.name }}",
+        "publisher": {
+          "@id": "{{ site.url }}/#organization"
+        }
+      },
+      {
+        "@type": "WebPage",
+        "@id": "{{ site.url }}{{ page.url }}",
+        "url": "{{ site.url }}{{ page.url }}",
+        "name": "{{ title }}",
+        "description": "{{ description or site.description }}",
+        "isPartOf": {
+          "@id": "{{ site.url }}/#website"
+        }
+      }
+    ]
+  }
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header>
+    <div class="header-inner">
+      <a href="/" class="site-title">{{ site.name }}</a>
+      <nav aria-label="Main navigation">
+        <ul>
+          {%- for item in site.nav %}
+          <li><a href="{{ item.url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.text }}</a></li>
+          {%- endfor %}
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main">
+    {{ content | safe }}
+  </main>
+
+  <footer>
+    <div class="footer-inner">
+      <p>&copy; {{ site.name }}. All rights reserved.</p>
+      <p><a href="/privacy/">Privacy Policy</a></p>
+    </div>
+  </footer>
+</body>
+</html>
