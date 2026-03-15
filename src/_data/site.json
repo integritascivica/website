@@ -18,8 +18,10 @@
   "nav": [
     { "url": "/", "text": "Home" },
     { "url": "/about/", "text": "About" },
+    { "url": "/connect/", "text": "Connect" }
+  ],
+  "_hidden_nav": [
     { "url": "/programs/", "text": "Programs" },
-    { "url": "/connect/", "text": "Connect" },
     { "url": "/resources/", "text": "Resources" }
   ]
 }

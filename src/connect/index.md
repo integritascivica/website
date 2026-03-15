@@ -16,8 +16,9 @@ Join our Substack newsletter for articles, analysis, and updates that cut throug
 
 ## Follow Us
 
-Find us across these platforms, each with content adapted to its strengths:
+We're launching on social media soon. Subscribe to the newsletter to be the first to know.
 
+{#
 <ul class="social-links">
   <li><a href="https://www.youtube.com/@IntegritasCivica">YouTube</a></li>
   <li><a href="https://integritascivica.substack.com">Substack</a></li>
@@ -41,6 +42,7 @@ Find us across these platforms, each with content adapted to its strengths:
 - **Twitter/X & Bluesky** — Threads, quotes, and short clips
 - **LinkedIn** — Professional-framed articles on economics and governance
 - **TikTok** — Short-form hooks and cross-ideological engagement
+#}
 
 ---
 
