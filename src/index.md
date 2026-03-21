@@ -59,5 +59,5 @@ We're heading into futures no one fully understands. We need good ideas, humilit
 
 <div class="cta-group">
   <a href="/about/" class="btn btn-primary">Read our vision and mission</a>
-  <a href="/resources/" class="btn btn-secondary">Explore our content</a>
+  <a href="/connect/" class="btn btn-secondary">Stay connected</a>
 </div>
