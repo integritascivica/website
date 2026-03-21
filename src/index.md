@@ -23,11 +23,11 @@ description: "Integritas Civica champions honest understanding and democratic pa
 
 Both sides fight over half-truths. Concentrated power destroys freedom—and it doesn't matter what banner it flies under. Corporate monopolies and unchecked government alike erode the democratic self-governance that protects all of us.
 
-We are interdependent beings living under the myth of the self-made. The most successful people built on foundations they didn't create: roads, education, research, legal systems. And the most dangerous movements claim to defend freedom while systematically dismantling it.
+We are interdependent beings living under the myth of the self-made. The most successful people built on foundations they didn't create: roads, education, scientific research, legal systems. And the most dangerous movements claim to defend freedom while systematically dismantling it.
 
 ## What we do differently
 
-We refuse to manipulate. Instead, we build understanding through honest discourse—grounded in evidence, held with humility, and ready to revise when better evidence emerges.
+We refuse to manipulate. Instead, we build understanding through honest discourse grounded in evidence, held with humility, and ready to revise when better evidence emerges.
 
 <div class="card-grid">
 <div class="card">
