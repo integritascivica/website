@@ -1,0 +1,32 @@
+MIT License (Code)
+
+Copyright (c) 2026 Integritas Civica
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of the software and associated configuration files (the "Code"), to deal in
+the Code without restriction, including without limitation the rights to use,
+copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Code, and to permit persons to whom the Code is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Code.
+
+"Code" refers to the technical scaffolding of this project: Eleventy
+configuration, CSS stylesheets, HTML templates, build scripts, and
+package configuration files.
+
+THE CODE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+
+Content and Branding (All Rights Reserved)
+
+Copyright (c) 2026 Integritas Civica. All rights reserved.
+
+All written content, including but not limited to articles, page copy,
+descriptions, and curated quote selections; the name "Integritas Civica";
+and any logos, images, or visual branding assets are the exclusive property
+of Integritas Civica and may not be reproduced, distributed, or used
+without prior written permission.
