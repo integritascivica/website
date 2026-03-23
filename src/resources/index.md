@@ -6,6 +6,11 @@ description: "Explore Integritas Civica's published content: video essays, podca
 
 # Resources
 
+<blockquote class="epigraph">
+<p>"I object to you. I object to intellect without discipline. I object to power without constructive purpose."</p>
+<cite>Spock, <em>Star Trek</em></cite>
+</blockquote>
+
 ## Our Content
 
 ### Video Essays
@@ -29,7 +34,7 @@ Read our long-form analysis and commentary on [Substack](https://integritascivic
 
 ### Economic Ideology Paradoxes
 
-Both pure capitalism and pure socialism concentrate power and destroy freedom. The mixed economy—markets with referees, public investment in shared foundations, rules that apply equally—isn't a compromise. It's what actually works. Across American history, this insight has crossed party lines: Sherman, Theodore Roosevelt, FDR, Eisenhower, LBJ all understood it.
+Both pure capitalism and pure socialism concentrate power and destroy freedom. The mixed economy (markets with referees, public investment in shared foundations, rules that apply equally) isn't a compromise. It's what actually works. Across American history, this insight has crossed party lines: Sherman, Theodore Roosevelt, FDR, Eisenhower, LBJ all understood it.
 
 ### The Authoritarian Capture Paradox
 
@@ -37,11 +42,11 @@ Movements claiming to defend freedom, limited government, and traditional values
 
 ### Subsidiarity and Global Governance
 
-When corporations operate globally but governments operate nationally, regulatory arbitrage is inevitable. We need governance structures that match the scale of the problems—without sacrificing democratic accountability.
+When corporations operate globally but governments operate nationally, regulatory arbitrage is inevitable. We need governance structures that match the scale of the problems without sacrificing democratic accountability.
 
 ### AI and the Future of Work
 
-The future is being decided right now—without most of us at the table. How do we ensure that AI and automation serve broad human flourishing rather than concentrating power further?
+The future is being decided right now, without most of us at the table. How do we ensure that AI and automation serve broad human flourishing rather than concentrating power further?
 
 ---
 

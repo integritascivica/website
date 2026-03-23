@@ -2,7 +2,7 @@
   "name": "Integritas Civica",
   "tagline": "Honesty. Wholeness. Integrity.",
   "url": "https://integritascivica.org",
-  "description": "We champion honest understanding and democratic participation—cutting through familiar political scripts to build communities where people work on shared problems across differences.",
+  "description": "We champion honest understanding and democratic participation, cutting through familiar political scripts to build communities where people work on shared problems across differences.",
   "social": {
     "youtube": "https://www.youtube.com/@IntegritasCivica",
     "substack": "https://integritascivica.substack.com",
@@ -18,7 +18,8 @@
   "nav": [
     { "url": "/", "text": "Home" },
     { "url": "/about/", "text": "About" },
-    { "url": "/connect/", "text": "Connect" }
+    { "url": "/connect/", "text": "Connect" },
+    { "url": "/quotes/", "text": "Inspiration" }
   ],
   "_hidden_nav": [
     { "url": "/programs/", "text": "Programs" },

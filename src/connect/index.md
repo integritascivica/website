@@ -6,6 +6,11 @@ description: "Stay connected with Integritas Civica through our newsletter, soci
 
 # Connect With Us
 
+<blockquote class="epigraph">
+<p>"We are fighting to save one another. We must realize we are not alone. We rise and fall together."</p>
+<cite>G'Kar, <em>Babylon 5</em></cite>
+</blockquote>
+
 ## Subscribe to Our Newsletter
 
 Join our Substack newsletter for articles, analysis, and updates that cut through political scripts and build genuine understanding.
@@ -52,4 +57,4 @@ For inquiries, partnership proposals, or media requests:
 
 **Email:** [contact@integritascivica.org](mailto:contact@integritascivica.org)
 
-We welcome genuine engagement from across the political spectrum. If you disagree with us, we want to hear your best argument—not a straw man of ours.
+We welcome genuine engagement from across the political spectrum. If you disagree with us, we want to hear your best argument, not a straw man of ours.
