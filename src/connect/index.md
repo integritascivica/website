@@ -51,10 +51,29 @@ We're launching on social media soon. Subscribe to the newsletter to be the firs
 
 ---
 
-## Contact
-
-For inquiries, partnership proposals, or media requests:
-
-**Email:** [contact@integritascivica.org](mailto:contact@integritascivica.org)
+## Get In Touch
 
 We welcome genuine engagement from across the political spectrum. If you disagree with us, we want to hear your best argument, not a straw man of ours.
+
+<form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field" class="contact-form">
+  <p class="hidden" aria-hidden="true">
+    <label>Don't fill this out: <input name="bot-field"></label>
+  </p>
+  <p>
+    <label for="name">Name</label>
+    <input type="text" id="name" name="name" required>
+  </p>
+  <p>
+    <label for="email">Email</label>
+    <input type="email" id="email" name="email" required>
+  </p>
+  <p>
+    <label for="message">Message</label>
+    <textarea id="message" name="message" rows="5" required></textarea>
+  </p>
+  <p>
+    <button type="submit" class="btn btn-primary">Send</button>
+  </p>
+</form>
+
+For direct inquiries, partnership proposals, or media requests: [contact@integritascivica.org](mailto:contact@integritascivica.org)
