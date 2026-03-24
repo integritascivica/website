@@ -4,3 +4,15 @@
 
 [build.environment]
   NODE_VERSION = "20"
+
+[[redirects]]
+  from = "https://integritas-civica.org/*"
+  to = "https://integritascivica.org/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.integritas-civica.org/*"
+  to = "https://integritascivica.org/:splat"
+  status = 301
+  force = true
