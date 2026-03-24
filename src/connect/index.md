@@ -55,7 +55,7 @@ We're launching on social media soon. Subscribe to the newsletter to be the firs
 
 We welcome genuine engagement from across the political spectrum. If you disagree with us, we want to hear your best argument, not a straw man of ours.
 
-<form name="contact" method="POST" action="/connect/" data-netlify="true" netlify-honeypot="bot-field" class="contact-form">
+<form name="contact" method="POST" action="/connect/thanks/" data-netlify="true" netlify-honeypot="bot-field" class="contact-form">
   <p class="hidden" aria-hidden="true">
     <label>Don't fill this out: <input name="bot-field"></label>
   </p>
