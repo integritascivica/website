@@ -6,65 +6,58 @@ description: "Integritas Civica champions honest understanding and democratic pa
 
 <div class="hero">
 
-# We're being played: the entire game, not just one side.
+# Every political faction has a piece of the truth. None has the whole thing.
 
-<blockquote class="epigraph">
-<p>"Understanding is a three-edged sword: your side, their side, and the truth."</p>
-<cite>Sheridan (after Kosh), <em>Babylon 5</em></cite>
-</blockquote>
-
-<p class="tagline">Integritas Civica champions honest understanding and democratic participation, cutting through familiar political scripts to build communities that work on shared problems across differences.</p>
+<p class="tagline">A half-truth defended like a whole truth isn't just incomplete — it's wrong. Integritas Civica cuts through the familiar scripts to find what's actually true, even when it's inconvenient for our own side.</p>
 
 <div class="cta-group">
-  <a href="/about/" class="btn btn-primary">Learn what we stand for</a>
-  <a href="/connect/" class="btn btn-secondary">Stay informed</a>
+  <a href="/about/" class="btn btn-primary">See what we've found</a>
+  <a href="https://integritascivica.substack.com" class="btn btn-secondary">Subscribe on Substack</a>
 </div>
 
 </div>
 
 ---
 
-## The problem isn't left vs. right
+## The paradoxes hiding in plain sight
 
-Political factions trade in half-truths: some more than others, all more than they care to admit. Concentrated power destroys freedom, and it doesn't matter what banner it flies under. Corporate monopolies and unchecked government alike erode the democratic self-governance that protects all of us.
+In 1890, Senator John Sherman — *Republican* — warned that corporate monopolies are as dangerous as kings. Theodore Roosevelt — *Republican* — broke up Standard Oil. Today, "conservative" often means letting the most powerful do whatever they want. What happened?
 
-The cause of freedom has always crossed party lines. Theodore Roosevelt and Dwight Eisenhower were Republican progressives who fought concentrated power as fiercely as Democrats like FDR and LBJ. We need progressives of all stripes to work with us to build a future our children will be proud to call home.
+Meanwhile, every attempt to impose perfect equality from the top down has created new ruling classes. And markets left without referees don't stay free — they get captured by whoever's strongest. **Both pure capitalism and pure socialism fail for the exact same reason:** concentrated power.
 
-To do that, we need to recognize a fundamental truth: We are interdependent beings living under the myth of the self-made. The most successful people built on foundations they didn't create: roads, education, scientific research, legal systems. The most dangerous movements claim to defend freedom while systematically dismantling it. That pattern is playing out again, right now, and it betrays everyone...even its own supporters, whether they realize it or not.
+The enemy was never one side or the other. It's concentrated power itself — and it doesn't care what banner it flies under.
 
-## What we do differently
-
-We refuse to manipulate. Instead, we build understanding through honest dialogue grounded in evidence, with a commitment to follow that evidence wherever it leads, even when it's inconvenient.
+## What honest inquiry turns up
 
 <div class="card-grid">
 <div class="card">
 
-### Bridge-building media
+### Your "low taxes" aren't low
 
-Video essays, podcasts, and articles that refuse to treat complex problems as simple team sports.
-
-</div>
-<div class="card">
-
-### Cross-ideological dialogue
-
-Communities where people learn to see what's usually invisible: how our fates are linked, how the old categories keep us fighting, and where good-faith discussion is the price of admission.
+When public investment gets cut, the costs don't disappear. They become medical debt, unaffordable childcare, and student loans your kids carry for decades. The taxes were shifted and hidden.
 
 </div>
 <div class="card">
 
-### Evidence-based advocacy
+### Democracy can actually work
 
-Specific policy recommendations backed by the best available evidence, held with conviction, yet updated when the evidence demands it, not when the politics do.
+When Ireland convened randomly selected citizens to tackle its most divisive issues, people who started polarized found common ground — and passed constitutional amendments politicians couldn't touch.
+
+</div>
+<div class="card">
+
+### You already paid for AI
+
+Taxpayers funded decades of foundational AI research through DARPA, NSF, and public universities. The gains are being privatized. The disruptions will be socialized. That's a choice, not a law of nature.
 
 </div>
 </div>
 
 ## No half-truths
 
-We're heading into futures no one fully understands. We need good ideas, humility to update them when warranted, and a simple truth we sometimes forget: when enough of us act like our efforts matter, they do.
+We're heading into futures no one fully understands. We need good ideas, humility to update them, and a truth we sometimes forget: when enough of us act like our efforts matter, they do.
 
 <div class="cta-group">
   <a href="/about/" class="btn btn-primary">Read our vision and mission</a>
-  <a href="/connect/" class="btn btn-secondary">Stay connected</a>
+  <a href="https://integritascivica.substack.com" class="btn btn-secondary">Subscribe on Substack</a>
 </div>

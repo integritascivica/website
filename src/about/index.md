@@ -6,14 +6,11 @@ description: "Integritas Civica's vision, mission, core values, and philosophica
 
 # About Integritas Civica
 
-<blockquote class="epigraph">
-<p>"No dictator, no invader, can hold an imprisoned population by force of arms forever. There is no greater power in the universe than the need for freedom. Against that power, governments and tyrants and armies cannot stand."</p>
-<cite>G'Kar, <em>Babylon 5</em></cite>
-</blockquote>
+*Integritas* — from the Latin for honesty, wholeness, and integrity. Our name is our commitment.
 
 ## Our Vision
 
-We are interdependent beings living under the myth of the self-made, visible in the confident certainty of those who can't see their own blind spots, and in the success of those who stand on systems others built. Coercive power may feel like strength to those who wield it, but conformity actually makes systems fail by ignoring the inherent collective intelligence of a diverse people. Diversity is a survival strategy, not mere sentiment.
+We are interdependent beings living under the myth of the self-made — visible in the confident certainty of those who can't see their own blind spots, and in the success of those who stand on systems others built. Coercive power may feel like strength to those who wield it, but conformity actually makes systems fail by ignoring the inherent collective intelligence of a diverse people. Diversity is a survival strategy, not mere sentiment.
 
 A lasting democratic civilization begins with remembering that our fates are bound together, and sustaining others who may be different from us is how we secure ourselves and everyone we love.
 
@@ -31,34 +28,25 @@ We recommend specific policies backed by the best available evidence. We hold th
 
 ## Core Values
 
-### Honesty, Wholeness, Integrity
+**No Half-Truths** — Every political faction has pieces of the truth. None has all of it. When evidence challenges our assumptions, we follow it — even when it's uncomfortable for our own side.
 
-Our name says it all. *Integritas*, from the Latin for honesty, wholeness, and integrity. These aren't abstract ideals; they're practical commitments that shape everything we do.
+**Intellectual Humility** — We form the best conclusions available evidence supports while remaining genuinely open to revision. Expressing uncertainty strengthens credibility; pretending certainty destroys it.
 
-### No Half-Truths
+**Complementarity** — Different perspectives complete each other. The tensions between market freedom and collective provision, individual liberty and shared responsibility, aren't bugs in political philosophy. They're features of a complex reality that demands both.
 
-Evidence doesn't respect party lines. Some factions get closer to the truth than others on specific questions, but none gets a pass on the ones they get wrong. We refuse to pretend otherwise. When we find evidence that challenges our assumptions, we follow it, even when it's uncomfortable.
+**Subsidiarity** — Decisions at the lowest level capable of handling them. Local communities know their own needs best — but climate change, corporate monopolies, and AI governance require coordination at higher levels.
 
-### Intellectual Humility
-
-We commit to the scientific attitude: forming the best conclusions available evidence supports and revising them when better evidence emerges, not when the pressure does. Expressing uncertainty when we are uncertain doesn't weaken our message; it strengthens our credibility.
-
-### Complementarity
-
-Honest perspectives grounded in evidence don't just coexist; they complete each other. The apparent contradictions between market freedom and collective provision, individual liberty and shared responsibility, aren't bugs in political philosophy. They're features of a complex reality that demands both.
-
-### Subsidiarity
-
-Decisions should be made at the lowest level capable of handling them effectively. Local communities know their own needs best, but some problems (climate change, corporate monopolies, AI governance) require coordination at higher levels.
-
-### Diversity as Strength
-
-Multiple viewpoints and approaches aren't just tolerable; they're essential. Conformity makes systems brittle. Genuine diversity of thought, experience, and perspective is how communities and civilizations survive.
+**Diversity as Survival Strategy** — Conformity makes systems brittle. Genuine diversity of thought, experience, and perspective is how communities and civilizations adapt and endure.
 
 ---
 
 ## Our Approach
 
-We engage across the full political spectrum, not because we lack convictions, but because the most important truths cross ideological boundaries. The only thing we require is good faith dialogue. We speak to traditional conservatives about corporate monopolies undermining free markets, to progressives about how good intentions can reproduce patterns of oppression, to libertarians about the conditions that make genuine competition possible, and to faith communities about how political entanglement corrupts religious independence.
+We engage across the full political spectrum&mdash;not because we lack convictions, but because the most important truths cross ideological boundaries. The only thing we require is good faith dialogue.
 
-We believe concentrated power is the common enemy, whether it wears the uniform of government or the suit of a monopolist. The mixed economy isn't a compromise. It's the solution.
+- **To traditional conservatives:** The Republican Party invented the progressive income tax and the antitrust laws. Senator Sherman warned against "kings over production and trade." Opposing concentrated power — corporate or governmental — is the original conservative insight. We take it seriously.
+- **To progressives:** Systems shape outcomes, and that insight is powerful. But movements for equality that ignore individual freedom have a troubling track record of creating new forms of oppression. The best solutions combine systemic insight with individual liberty and local adaptation.
+- **To libertarians:** In a world with no referees, whoever accumulates the most power makes the rules. Markets without rules don't stay free. Adam Smith knew this. The question isn't whether to have rules — it's which rules preserve genuine liberty.
+- **To faith communities:** Every time religion gets entangled with political power, faith suffers. The separation of church and state wasn't an attack on religion — it was protection for it.
+
+Concentrated power is the common enemy&mdash;whether it wears the uniform of government or the suit of a monopolist. The mixed economy isn't a compromise. It's the solution.

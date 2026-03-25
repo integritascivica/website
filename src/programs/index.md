@@ -13,41 +13,45 @@ description: "Integritas Civica's programs: bridge-building media, cross-ideolog
 
 ## Bridge-Building Media
 
-We produce content across multiple formats (video essays, podcasts, written articles, and social media) designed to reach people where they are. Every piece refuses to manipulate and instead builds genuine understanding.
+Most political media is designed to make you angry. Anger drives clicks, shares, and ad revenue. We create content designed to make you *think* — and to show you what you've been missing.
 
-Our content addresses audiences across the political spectrum, including traditional conservatives, progressives, libertarians, faith communities, working-class Americans, and exhausted moderates. Each piece speaks to shared concerns rather than tribal allegiances.
+Our media addresses audiences across the political spectrum: traditional conservatives, progressives, libertarians, faith communities, working-class Americans, and exhausted moderates. Each piece speaks to shared concerns rather than tribal allegiances — and each one challenges its audience's assumptions, including our own.
 
 ### Formats
 
 - **Video essays** (8-10 minutes) — In-depth explorations of the paradoxes hiding in plain sight across ideological lines
 - **Podcast conversations** — Longer-form dialogue exploring difficult questions with intellectual honesty
-- **Short-form video** — 30-60 second clips distilling key insights for social media
-- **Written articles** — Companion pieces providing depth, sources, and nuance
+- **Short-form video** (30-60 seconds) — Key insights distilled for social media
+- **Written articles** — Companion pieces on [Substack](https://integritascivica.substack.com) providing depth, sources, and nuance
 
 ---
 
 ## Cross-Ideological Dialogue
 
-We facilitate conversations where people from different political backgrounds can engage with each other's best arguments, not straw men. These aren't debates designed to produce winners and losers, but structured dialogues aimed at clarity: understanding what others actually believe, and why, without pretending all positions are equally supported by evidence.
+When Ireland needed to resolve its most divisive issues, it didn't rely on politicians trading sound bites. It convened citizens' assemblies — randomly selected ordinary people, given real information and structured deliberation. People who started polarized found common ground. We take the same approach.
+
+Our dialogues aren't debates with winners and losers. They're structured conversations aimed at mutual understanding, where people engage with each other's best arguments — not straw men.
 
 ### Key Principles
 
-- **Steel-manning**: We present the strongest version of positions we disagree with, because if we can't address the best case, we haven't done our homework
-- **Identity decoupling**: We separate beliefs from identity, reducing defensive responses
-- **Consider-the-opposite**: We ask "What would count as evidence against this view?"
-- **Reciprocal vulnerability**: We model intellectual honesty by sharing our own evolving views
+- **Steel-manning** — We present the strongest version of positions we disagree with
+- **Identity decoupling** — We separate beliefs from identity, reducing defensiveness
+- **Consider-the-opposite** — We ask "What would count as evidence against this view?"
+- **Reciprocal vulnerability** — We model intellectual honesty by sharing how our own views have changed
 
 ---
 
 ## Evidence-Based Advocacy
 
-We advocate for specific policy recommendations grounded in the best available evidence, from economic policy to democratic reform to AI governance. We hold these recommendations with conviction, and revise them when better evidence emerges or when local conditions demand adaptation, not when they become politically inconvenient.
+Public R&D investment delivers 140-210% social returns — nearly three times the return of private R&D. The Human Genome Project returned $141 for every dollar invested. GPS generates $1.4 trillion in annual civilian value from military research. These aren't opinions. They're data.
+
+We advocate for specific policies grounded in the best available evidence — and we hold all recommendations with conviction, ready to revise when genuinely better evidence emerges.
 
 ### Focus Areas
 
 - **Economic policy** — Moving beyond the false choice between pure capitalism and pure socialism toward mixed-economy approaches proven to build broad prosperity
-- **Democratic reform** — Structural changes that reduce polarization and increase genuine representation
-- **AI and technology governance** — Ensuring that transformative technologies benefit everyone, not just those who control them
+- **Democratic reform** — Citizens' assemblies, deliberative polling, and structural changes that reduce polarization and increase genuine representation
+- **AI and technology governance** — Ensuring transformative technologies benefit everyone, not just those who control them
 - **Subsidiarity in practice** — Matching decision-making to the right level, from neighborhood to global
 
 ---
