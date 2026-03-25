@@ -6,9 +6,9 @@ description: "Integritas Civica champions honest understanding and democratic pa
 
 <div class="hero">
 
-# Every political faction has a piece of the truth. None has the whole thing.
+# Every political faction has a piece of the truth. None has the whole picture.
 
-<p class="tagline">A half-truth defended like a whole truth isn't just incomplete — it's wrong. Integritas Civica cuts through the familiar scripts to find what's actually true, even when it's inconvenient for our own side.</p>
+<p class="tagline">A half-truth defended like a whole truth isn't just incomplete — it's wrong. Integritas Civica cuts through the familiar scripts to find what's actually true, even when it challenges a position we've held.</p>
 
 <div class="cta-group">
   <a href="/about/" class="btn btn-primary">See what we've found</a>
