@@ -50,3 +50,9 @@ We engage across the full political spectrum&mdash;not because we lack convictio
 - **To faith communities:** Every time religion gets entangled with political power, faith suffers. The separation of church and state wasn't an attack on religion — it was protection for it.
 
 Concentrated power is the common enemy&mdash;whether it wears the uniform of government or the suit of a monopolist. The mixed economy isn't a compromise. It's the solution.
+
+---
+
+## Where We Are
+
+Integritas Civica currently operates as an LLC. We are building toward nonprofit status and intend to transition once we've assembled a founding board that reflects the cross-ideological commitment this work demands. We'd rather take the time to get that right than rush the foundation.
