@@ -6,7 +6,7 @@ description: "Words that capture what Integritas Civica is trying to do, from st
 
 # Inspiration
 
-The ideas that guide Integritas Civica didn't start with us. These words, from stories about building civilizations across impossible differences, capture what we're trying to do.
+The ideas that guide Integritas Civica didn't start with us. These words, from stories about building civilizations across impossible differences, capture some of what we're trying to do.
 
 ---
 
@@ -16,7 +16,7 @@ The ideas that guide Integritas Civica didn't start with us. These words, from s
 >
 > <cite>Sheridan (after Kosh), <em>Babylon 5</em></cite>
 
-> "Patience is also a weapon when used properly...you cannot win this war through force. You must...*understand* your way out of this."
+> "Patience is also a weapon when used properly...you cannot win this war through force. You must...**understand** your way out of this."
 >
 > <cite><em>Babylon 5</em></cite>
 
@@ -33,7 +33,7 @@ The ideas that guide Integritas Civica didn't start with us. These words, from s
 ## Democracy, Freedom, and Governance
 
 > - Chief Cloud William: “When you would not say the holy words of the Ee’d Pbnista, I doubted you.”
-> - Kirk: “ I did not recognize those words, you said them so badly, *without meaning*.”
+> - Kirk: “ I did not recognize those words, you said them so badly, **without meaning**.”
 > - Chief’s second-in-command: “No, no!  Only the eyes of a chief may see the Ee’d Pbnista.”
 > - Kirk: “This was not written for chiefs.  Hear me, hear this! Look at these three words written in larger text than the rest and with a special pride never written before or since: Tall words, proudly saying **‘We the people.’** That which you call the Ee’d Pbnista was not written for the chiefs, or the kings, or the warriors, or the rich, or the powerful, but for **all** the people!  Down the centuries, you have slurred the meaning of the words.  ‘We the people of the United States, in Order to form a more perfect Union, establish Justice, ensure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity do ordain and establish this Constitution...’ These words, and the words that follow were not written only for the Yang‘s, but for the Kohms as well. They must apply to **everyone** or they mean ***nothing***!  Do you understand?”
 > ...
