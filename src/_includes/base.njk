@@ -17,18 +17,7 @@
         "name": "{{ site.name }}",
         "url": "{{ site.url }}",
         "description": "{{ site.description }}",
-        "sameAs": [
-          "{{ site.social.youtube }}",
-          "{{ site.social.substack }}",
-          "{{ site.social.facebook }}",
-          "{{ site.social.instagram }}",
-          "{{ site.social.twitter }}",
-          "{{ site.social.bluesky }}",
-          "{{ site.social.linkedin }}",
-          "{{ site.social.tiktok }}",
-          "{{ site.social.threads }}",
-          "{{ site.social.mastodon }}"
-        ]
+        "sameAs": {{ site.social | nonEmptyValues | dump | safe }}
       },
       {
         "@type": "WebSite",

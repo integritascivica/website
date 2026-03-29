@@ -1,6 +1,10 @@
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/css");
 
+  eleventyConfig.addFilter("nonEmptyValues", function(obj) {
+    return Object.values(obj).filter(Boolean);
+  });
+
   return {
     dir: {
       input: "src",

@@ -4,16 +4,16 @@
   "url": "https://integritascivica.org",
   "description": "We champion honest understanding and democratic participation, cutting through familiar political scripts to build communities where people work on shared problems across differences.",
   "social": {
-    "youtube": "https://www.youtube.com/@IntegritasCivica",
+    "youtube": "",
     "substack": "https://integritascivica.substack.com",
-    "facebook": "https://www.facebook.com/IntegritasCivica",
-    "instagram": "https://www.instagram.com/integritascivica",
-    "twitter": "https://twitter.com/IntegritasCivic",
-    "bluesky": "https://bsky.app/profile/integritascivica.bsky.social",
-    "linkedin": "https://www.linkedin.com/company/integritas-civica",
-    "tiktok": "https://www.tiktok.com/@integritascivica",
-    "threads": "https://www.threads.net/@integritascivica",
-    "mastodon": "https://mastodon.social/@integritascivica"
+    "facebook": "",
+    "instagram": "",
+    "twitter": "",
+    "bluesky": "",
+    "linkedin": "",
+    "tiktok": "",
+    "threads": "",
+    "mastodon": ""
   },
   "nav": [
     { "url": "/", "text": "Home" },
