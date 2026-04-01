@@ -66,3 +66,6 @@ Single CSS file (`src/css/style.css`) using custom properties defined on `:root`
 ## Deployment
 
 Netlify (`netlify.toml`): runs `npm install && npm run build`, publishes `_site/`, Node 20.
+
+## Open Brain (Semantic Knowledge)
+- Use open-brain-ic (not open-brain-personal) for all Open Brain operations in this project.
