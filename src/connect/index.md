@@ -74,6 +74,30 @@ We welcome genuine engagement from across the political spectrum. If you disagre
     <label for="email">Email</label>
     <input type="email" id="email" name="email" required>
   </p>
+  <fieldset class="inquiry-type">
+    <legend>What can we help with?</legend>
+    <label>
+      <input type="radio" name="inquiry" value="general" checked>
+      General Inquiry
+    </label>
+    <label>
+      <input type="radio" name="inquiry" value="workshop">
+      Workshop Request
+    </label>
+    <label>
+      <input type="radio" name="inquiry" value="consultation">
+      Consultation Request
+    </label>
+    <label>
+      <input type="radio" name="inquiry" value="partnership">
+      Partnership or Collaboration
+    </label>
+    <label>
+      <input type="radio" name="inquiry" value="media">
+      Media Inquiry
+    </label>
+    <p class="field-hint">For workshops and consultations, please include your organization name, approximate group size, and preferred timeframe in your message.</p>
+  </fieldset>
   <p>
     <label for="message">Message</label>
     <textarea id="message" name="message" rows="5" required></textarea>
