@@ -8,7 +8,7 @@ description: "Integritas Civica champions honest understanding and democratic pa
 
 # What's happening is real. You're not overreacting.
 
-<p class="tagline">If you're scared and angry, you're paying attention. If you're exhausted, you've been paying attention for a while. But here's what history tells us: every major movement for change started with a small minority who refused to look away. Research shows it takes just 3.5% of a population to make change unstoppable. You are not powerless. And you are not alone.</p>
+<p class="tagline">If you're scared and angry, you're paying attention. If you're exhausted, you've been paying attention for a while. But here's what history tells us: every major movement for change started with a small minority who refused to look away. Political scientist Erica Chenoweth's research shows it takes just 3.5% of a population to make change unstoppable. You are not powerless. And you are not alone.</p>
 
 <div class="cta-group">
   <a href="https://integritascivica.substack.com" class="btn btn-primary">Read the full essay</a>

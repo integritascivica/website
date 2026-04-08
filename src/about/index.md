@@ -44,7 +44,7 @@ We recommend specific policies backed by the best available evidence. We hold th
 
 We engage across the full political spectrum&mdash;not because we lack convictions, but because the most important truths cross ideological boundaries. The only thing we require is good faith dialogue.
 
-- **To traditional conservatives:** The Republican Party invented the progressive income tax and the antitrust laws. Senator Sherman warned against "kings over production and trade." Opposing concentrated power — corporate or governmental — is the original conservative insight. We take it seriously.
+- **To traditional conservatives:** The Republican Party invented the progressive income tax and the antitrust laws. Senator Sherman warned against "a king over the production, transportation, and sale of any of the necessaries of life." Opposing concentrated power — corporate or governmental — is the original conservative insight. We take it seriously.
 - **To progressives:** Systems shape outcomes, and that insight is powerful. But movements for equality that ignore individual freedom have a troubling track record of creating new forms of oppression. The best solutions combine systemic insight with individual liberty and local adaptation.
 - **To libertarians:** In a world with no referees, whoever accumulates the most power makes the rules. Markets without rules don't stay free. Adam Smith knew this. The question isn't whether to have rules — it's which rules preserve genuine liberty.
 - **To faith communities:** Every time religion gets entangled with political power, faith suffers. The separation of church and state wasn't an attack on religion — it was protection for it.
