@@ -42,7 +42,7 @@ Movements claiming to defend freedom, limited government, and traditional values
 
 ### Democracy That Actually Works
 
-Over 110 deliberative polling exercises across 30 countries show the same pattern: when ordinary people get real information and genuine space to deliberate, they make better decisions than partisan politicians — and they depolarize in the process. Ireland used citizens' assemblies to pass constitutional amendments that politicians couldn't touch for decades.
+Stanford's Center for Deliberative Democracy has conducted over 110 deliberative polling exercises across 30 countries, and the pattern is consistent: when ordinary people get real information and genuine space to deliberate, they make better decisions than partisan politicians — and they depolarize in the process. Ireland used citizens' assemblies to pass constitutional amendments that politicians couldn't touch for decades.
 
 ### AI and the Future of Work
 
