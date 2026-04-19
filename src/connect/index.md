@@ -18,7 +18,7 @@ Every week, we publish essays that drill into what the familiar political script
 - The economic paradoxes hiding in plain sight — including the "low taxes" trick that shifts costs onto you in ways you never see on a ballot
 - Democratic reforms that are already working in 30+ countries
 - What AI and automation actually mean for your future — built on research your taxes paid for
-- The specific ways conservative, progressive, and libertarian half-truths each become dangerous when mistaken for the whole picture
+- Where conservative, progressive, and libertarian half-truths each go wrong &mdash; and why the current authoritarian moment is a different problem that needs a different response
 
 If you believe truth matters more than tribal loyalty, subscribe.
 

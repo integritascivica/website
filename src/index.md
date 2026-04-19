@@ -29,7 +29,7 @@ The door is open right now. It won't stay open forever.
 
 ## You have more allies than you think: Not just liberals!
 
-**Independents** are the fastest-growing political segment in America &mdash; and a growing share of who shows up at protests and otherwise participating in change efforts. Independents are tired of both parties' scripts. They can see that something is deeply wrong, and they're not interested in being recruited into a tribe. They want the truth. So do we.
+**There's a growing exhausted middle &mdash; and it's not just one party's defectors.** Across registration categories &mdash; independents, yes, but also plenty of Democrats and Republicans &mdash; a growing share of Americans are tired of tribal scripts and willing to show up when something matters. They can see that something is deeply wrong, and they're not interested in being recruited into a team. They want honest answers. So do we. (Note: not every "independent" fits this description &mdash; many are partisans who just dislike the label. The people we mean are defined by mindset, not registration.)
 
 **And then there are the Republicans who are starting to wake up.** Not all of them. Not most of them &mdash; not yet. But some are being genuinely shocked by how far the current administration has gone. They signed up for limited government and individual liberty, not *this*. And here's what matters about those people: like cult survivors, the ones who break free often become the fiercest advocates for truth. They've seen the manipulation from the inside. They know how it works. And they're angry.
 
