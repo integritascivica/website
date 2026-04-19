@@ -25,15 +25,15 @@ description: "The Republican Party invented the progressive income tax and the a
 
 Senator John Sherman &mdash; Republican &mdash; warned that corporate monopolies are as dangerous as kings. Theodore Roosevelt &mdash; Republican &mdash; broke up Standard Oil. Lincoln &mdash; Republican &mdash; created the progressive income tax to fund the Union and build a nation. Eisenhower &mdash; Republican &mdash; built the interstate highway system and used his final presidential address to warn about the military-industrial complex.
 
-These weren't RINOs ("Republicans In Name Only"). They were Republicans who understood that the Founders' distrust of concentrated power shouldn't stop at the government's door. When corporations grow powerful enough to write their own regulations, that's not free enterprise &mdash; it's the kind of tyranny conservatives are supposed to oppose.
+These weren't RINOs ("Republicans In Name Only"). They were Republicans who understood that the Founders' distrust of concentrated power shouldn't stop at the government's door. When corporations grow powerful enough to write their own regulations, that's not free enterprise &mdash; it's the kind of tyranny conservatives oppose.
 
 ## The progressive trap
 
 We're not asking you to become a liberal. In fact, progressives have their own half-truth to reckon with.
 
-Progressives are right that systems shape outcomes. But movements for equality that ignore individual freedom and local adaptation have a troubling track record. Every attempt to impose perfect equality from the top down has created new ruling classes. Orwell &mdash; himself a committed socialist &mdash; captured it perfectly: "All animals are equal, but some animals are more equal than others."
+Progressives are right that systems shape outcomes. But there's a hard-earned 20th-century lesson worth holding onto: top-down attempts to impose perfect equality produced new ruling classes in the process of dissolving the old ones. Orwell, himself a committed socialist, captured it: "All animals are equal, but some animals are more equal than others."
 
-Good intentions aren't enough. Power concentrates anyway &mdash; unless you build in constraints. And those constraints require exactly the kind of individual rights and distributed authority that conservatives have always championed.
+The lesson generalizes. Power concentrates regardless of stated intentions, unless you build in constraints &mdash; and that's true of any movement, on any side, including the one currently wearing your jersey. Good intentions aren't enough. Those constraints require exactly the kind of individual rights and distributed authority that conservatives have always championed.
 
 ## The same disease
 
