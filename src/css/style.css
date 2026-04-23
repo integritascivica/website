@@ -154,6 +154,9 @@ header {
 }
 
 .site-title {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-xs);
   font-size: 1.25rem;
   font-weight: 700;
   color: var(--color-text);
@@ -162,6 +165,12 @@ header {
 
 .site-title:hover {
   color: var(--color-accent);
+}
+
+.site-logo {
+  width: 2rem;
+  height: 2rem;
+  flex-shrink: 0;
 }
 
 nav ul {
