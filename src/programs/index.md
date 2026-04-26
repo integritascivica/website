@@ -43,7 +43,7 @@ Our dialogues aren't debates with winners and losers. They're structured convers
 
 ## Evidence-Based Advocacy
 
-Public R&D investment delivers 140-210% social returns — nearly three times the return of private R&D ([Fieldhouse & Mertens, NBER 2024](https://www.nber.org/books-and-chapters/entrepreneurship-and-innovation-policy-and-economy-volume-5/social-returns-public-rd)). The Human Genome Project returned $141 for every dollar invested. GPS generates $1.4 trillion in annual civilian value from military research. These aren't opinions. They're data.
+Public R&D investment delivers 140-210% gross social returns ([Fieldhouse & Mertens, NBER 2024](https://www.nber.org/books-and-chapters/entrepreneurship-and-innovation-policy-and-economy-volume-5/social-returns-public-rd)) — well above what private investors are able to capture, which is why public funding fills a gap the market systematically leaves open. The Human Genome Project returned roughly $66 for every dollar invested (Battelle 2013 update). GPS, originally military research, has generated an estimated $1.4 trillion in cumulative civilian economic value (in 2017 dollars). These aren't opinions. They're data.
 
 We advocate for specific policies grounded in the best available evidence — and we hold all recommendations with conviction, ready to revise when genuinely better evidence emerges.
 
