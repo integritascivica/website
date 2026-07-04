@@ -8,7 +8,7 @@ description: "Integritas Civica champions honest understanding and democratic pa
 
 # What's happening is real. You're not overreacting.
 
-<p class="tagline">If you're scared and angry, you're paying attention. If you're exhausted, you've been paying attention for a while. But here's what history tells us: every major movement for change started with a small minority who refused to look away. Political scientist Erica Chenoweth's research shows it takes just 3.5% of a population to make change unstoppable. You are not powerless. And you are not alone.</p>
+<p class="tagline">If you're scared and angry, you're paying attention. If you're exhausted, you've been paying attention for a while. But here's what history tells us: every major movement for change started with a small minority who refused to look away. Political scientist Erica Chenoweth's research suggests that few nonviolent anti-authoritarian movements mobilizing at least 3.5% of a population have ever failed, and some movements have succeeded with less. You are not powerless. And you are not alone.</p>
 
 <div class="cta-group">
   <a href="https://integritascivica.substack.com" class="btn btn-primary">Read the full essay</a>
@@ -35,7 +35,7 @@ The door is open right now. It won't stay open forever.
 
 We can accelerate that. Not by asking them to become liberals, but by reminding them of their own history &mdash; a history most of them never learned.
 
-In 1890, Senator John Sherman &mdash; *Republican* &mdash; warned that corporate monopolies are as dangerous as kings. Theodore Roosevelt &mdash; *Republican* &mdash; broke up Standard Oil. Lincoln &mdash; *Republican* &mdash; created the progressive income tax. Eisenhower &mdash; *Republican*, five-star general &mdash; spent his final presidential address warning about the military-industrial complex.
+In 1890, Senator John Sherman &mdash; *Republican* &mdash; warned that corporate monopolies are as dangerous as kings. Theodore Roosevelt &mdash; *Republican* &mdash; launched the antitrust prosecution of Standard Oil (the Supreme Court ordered its breakup in 1911, after he left office). Lincoln &mdash; *Republican* &mdash; created the progressive income tax. Eisenhower &mdash; *Republican*, five-star general &mdash; spent his final presidential address warning about the military-industrial complex.
 
 The Republican Party *invented* the tools that fight concentrated power. When honest conservatives see that history clearly &mdash; when they see the whole truth instead of the half-truth their party has been selling them &mdash; the old tribal lines stop making sense. [Why would conservatives possibly join us?](/conservatives/)
 

@@ -48,7 +48,7 @@ The enemy was never capitalism or socialism. The enemy is concentrated power its
 
 ### Markets need referees
 
-Adam Smith knew it. Sherman knew it. Markets without rules don't stay free &mdash; they get captured by whoever's strongest. The first antitrust champions were free-market Republicans who saw monopoly as the enemy of competition.
+Adam Smith knew it. Sherman knew it. Markets without rules don't stay free &mdash; they get captured by whoever's strongest. The Sherman Act's congressional champions were Republicans who saw monopoly as the enemy of competition.
 
 </div>
 <div class="card">
