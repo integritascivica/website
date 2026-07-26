@@ -64,7 +64,7 @@ The ideas that guide Integritas Civica didn't start with us. These words, from s
 > - Delenn: “In the service of their clan, [my people] are ready to sacrifice everything: their individuality, their blood, their life…”
 > - Sheridan: “Their honor? Well, we’ve had plenty of that ourselves. Conspiracies of silence because the larger ideals have to be protected. But you can’t have larger ideals if the smaller ones get compromised. It’s like building a house without a foundation, Delenn &ndash; it can’t stand!”
 >
-> <cite>Delenn and Sheridan, <em>Babylon 5</em></cite>
+> <cite><em>Babylon 5, </em>There All the Honor Lies</cite>
 
 > "You just have to say 'no, I won't' one more time than they can say 'yes, you will.'"
 >
