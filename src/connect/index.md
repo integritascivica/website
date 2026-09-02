@@ -13,11 +13,11 @@ description: "Stay connected with Integritas Civica through our newsletter, soci
 
 ## Subscribe to Our Newsletter
 
-Every week, we publish essays that drill into what the familiar political scripts don't want you to see:
+Every month, we publish an essay that drills into what the familiar political scripts don't want you to see:
 
-- The economic paradoxes hiding in plain sight — including the "low taxes" trick that shifts costs onto you in ways you never see on a ballot
+- The economic paradoxes hiding in plain sight, including the "low taxes" trick that shifts costs onto you in ways you never see on your ballot
 - Democratic reforms that are already working in 30+ countries
-- What AI and automation actually mean for your future — built on research your taxes paid for
+- What AI and automation actually mean for your future, partially built on research your taxes paid for
 - Where conservative, progressive, and libertarian half-truths each go wrong &mdash; and why the current authoritarian moment is a different problem that needs a different response
 
 If you believe truth matters more than tribal loyalty, subscribe.
