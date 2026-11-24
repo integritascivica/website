@@ -9,12 +9,19 @@
 }
 
 :root {
+  /* The browser reads this property. It draws form controls and scroll bars
+     in the scheme of the operating system. */
+  color-scheme: light dark;
   --color-text: #1a1a2e;
   --color-text-light: #4a4a6a;
   --color-bg: #fafaf9;
   --color-surface: #ffffff;
-  --color-accent: #2c5f8a;
-  --color-accent-dark: #1e4263;
+  /* Burnt caramel. The dark scheme below replaces it with gold. */
+  --color-accent: #b45909;
+  /* The hover shade of the accent. This is not the dark scheme accent. */
+  --color-accent-dark: #92400e;
+  /* The color of text on an accent background. */
+  --color-on-accent: #ffffff;
   --color-border: #ddd;
   --max-width: 52rem;
   --space-xs: 0.5rem;
@@ -22,6 +29,25 @@
   --space-md: 2rem;
   --space-lg: 3rem;
   --space-xl: 5rem;
+}
+
+/* The dark scheme. The operating system setting selects it. */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-text: #ededea;
+    --color-text-light: #b5b0a8;
+    --color-bg: #141210;
+    --color-surface: #1e1b18;
+    --color-accent: #fcd34d;
+    --color-accent-dark: #fde68a;
+    --color-on-accent: #141210;
+    --color-border: #3a352f;
+  }
+
+  /* The logo is black. Invert it to make it visible on a dark background. */
+  .site-logo {
+    filter: invert(1);
+  }
 }
 
 html {
@@ -46,7 +72,7 @@ body {
   top: -100%;
   left: var(--space-sm);
   background: var(--color-accent);
-  color: #fff;
+  color: var(--color-on-accent);
   padding: var(--space-xs) var(--space-sm);
   z-index: 100;
   border-radius: 0 0 4px 4px;
@@ -237,12 +263,12 @@ main {
 
 .btn-primary {
   background: var(--color-accent);
-  color: #fff;
+  color: var(--color-on-accent);
 }
 
 .btn-primary:hover {
   background: var(--color-accent-dark);
-  color: #fff;
+  color: var(--color-on-accent);
 }
 
 .btn-secondary {
@@ -252,7 +278,7 @@ main {
 
 .btn-secondary:hover {
   background: var(--color-accent);
-  color: #fff;
+  color: var(--color-on-accent);
 }
 
 .card-grid {
