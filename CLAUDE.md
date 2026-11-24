@@ -73,12 +73,13 @@ Netlify (`netlify.toml`): runs `npm install && npm run build`, publishes `_site/
 ## Design system (add this block to each repo's CLAUDE.md)
 
 The Integritas Civica design system is the single source of truth for all
-visual styling. It lives as a published artifact; read it before changing
-any UI.
+visual styling. It is committed to this repo under `brand/`; read it before
+changing any UI.
 
-- Brand book: `project/README.md` in the design system — read first.
-- Tokens: `project/tokens.json` — colors (light/dark), type, spacing, radius.
-- Components: `project/components/<Name>/README.md` + `preview.html`.
+- Brand book: `brand/DESIGN_SYSTEM.md` — principles, color, type, components,
+  rules. Read first.
+- Tokens: `brand/tokens.json` — colors (light/dark), type, spacing, radius.
+  The build generates `tokens.css` from this; never edit `tokens.css` by hand.
 
 ### Rules
 
@@ -94,15 +95,15 @@ any UI.
   (`--signal-add`, `--signal-del`). Never use them as accent or decoration.
 - Content vs. interface font split: text people READ in sentences is Lora
   (`--font-serif`); interface people SCAN or operate is Inter
-  (`--font-sans`); data/diffs/IDs/counts are JetBrains Mono
-  (`--font-mono`).
+  (`--font-sans`); data/diffs/IDs/counts are JetBrains Mono (`--font-mono`).
 - Theme switching: `:root` is light; dark comes from
   `@media (prefers-color-scheme: dark) :root:not([data-theme="light"])` and
   from an explicit `[data-theme="dark"]`. Keep all three in sync.
 
 ### Regenerating tokens
 
-`tokens.css` is GENERATED from `tokens.json` by `generate_tokens.py` — do
-not edit `tokens.css` by hand. When a token changes in the design system,
-re-run the generator and commit the output. The same `tokens.json` feeds
-both the Next app and the Eleventy site; keep them on the same version.
+`tokens.css` is GENERATED from `brand/tokens.json` by
+`brand/generate_tokens.py` — do not edit `tokens.css` by hand. The `tokens`
+build step runs the generator; `build` (and dev) depend on it. When a token
+changes, update `brand/tokens.json` and rebuild. The same `tokens.json` feeds
+both the app and the website; keep them on the same version.
