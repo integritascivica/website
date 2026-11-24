@@ -1,0 +1,165 @@
+/* Integritas Civica — generated from tokens.json. Do not edit by hand. */
+
+:root,
+:root[data-theme="light"] {
+  --surface-page: #fbfaf7;
+  --surface-card: #ffffff;
+  --surface-sunken: #f1ece3;
+  --ink: #1a1714;
+  --ink-muted: #6e655b;
+  --rule: #e6e0d6;
+  --accent: #b45309;
+  --accent-ink: #ffffff;
+  --accent-text: #8a4206;
+  --accent-tint: #f6e8d4;
+  --signal-add: #1e7a46;
+  --signal-del: #c0392b;
+  --signal-add-bg: #e4f1e9;
+  --signal-del-bg: #f7e4e1;
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --surface-page: #17140f;
+    --surface-card: #201b14;
+    --surface-sunken: #262016;
+    --ink: #f2ece2;
+    --ink-muted: #a99e8e;
+    --rule: #2e281f;
+    --accent: #fcd34d;
+    --accent-ink: #17140f;
+    --accent-text: #fcd34d;
+    --accent-tint: #3a2e12;
+    --signal-add: #5fc98a;
+    --signal-del: #f2796b;
+    --signal-add-bg: #1c2a21;
+    --signal-del-bg: #2c1f1d;
+    color-scheme: dark;
+  }
+}
+
+[data-theme="dark"] {
+  --surface-page: #17140f;
+  --surface-card: #201b14;
+  --surface-sunken: #262016;
+  --ink: #f2ece2;
+  --ink-muted: #a99e8e;
+  --rule: #2e281f;
+  --accent: #fcd34d;
+  --accent-ink: #17140f;
+  --accent-text: #fcd34d;
+  --accent-tint: #3a2e12;
+  --signal-add: #5fc98a;
+  --signal-del: #f2796b;
+  --signal-add-bg: #1c2a21;
+  --signal-del-bg: #2c1f1d;
+  color-scheme: dark;
+}
+
+:root {
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --space-6: 40px;
+  --radius-sm: 7px;
+  --radius-md: 10px;
+  --radius-lg: 12px;
+  --radius-pill: 999px;
+}
+
+:root {
+  --shadow-card: 0 1px 2px rgba(26,23,20,0.06), 0 2px 8px rgba(26,23,20,0.04);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --shadow-card: 0 1px 2px rgba(0,0,0,0.4);
+  }
+}
+
+[data-theme="dark"] {
+  --shadow-card: 0 1px 2px rgba(0,0,0,0.4);
+}
+
+:root {
+  --font-serif: "Lora", Georgia, "Times New Roman", serif;
+  --font-sans: "Inter", system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+}
+
+.display {
+  font-family: var(--font-serif);
+  font-size: 44px;
+  line-height: 46px;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+.headline {
+  font-family: var(--font-serif);
+  font-size: 28px;
+  line-height: 32px;
+  font-weight: 600;
+  letter-spacing: -0.005em;
+}
+
+.body {
+  font-family: var(--font-serif);
+  font-size: 17px;
+  line-height: 28px;
+  font-weight: 400;
+}
+
+.pullquote {
+  font-family: var(--font-serif);
+  font-size: 19px;
+  line-height: 27px;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.ui-strong {
+  font-family: var(--font-sans);
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 600;
+}
+
+.ui {
+  font-family: var(--font-sans);
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+}
+
+.ui-small {
+  font-family: var(--font-sans);
+  font-size: 12px;
+  line-height: 16px;
+  font-weight: 400;
+}
+
+.eyebrow {
+  font-family: var(--font-sans);
+  font-size: 11px;
+  line-height: 14px;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+}
+
+.mono {
+  font-family: var(--font-mono);
+  font-size: 13px;
+  line-height: 20px;
+  font-weight: 400;
+}
+
+.mono-num {
+  font-family: var(--font-mono);
+  font-size: 13px;
+  line-height: 20px;
+  font-weight: 500;
+}

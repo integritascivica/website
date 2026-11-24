@@ -3,9 +3,10 @@
   "version": "1.0.0",
   "description": "Integritas Civica organizational website",
   "scripts": {
-    "build": "npx @11ty/eleventy",
-    "serve": "npx @11ty/eleventy --serve",
-    "debug": "DEBUG=Eleventy* npx @11ty/eleventy"
+    "tokens": "python3 brand/generate_tokens.py brand/tokens.json > src/css/tokens.css",
+    "build": "npm run tokens && npx @11ty/eleventy",
+    "serve": "npm run tokens && npx @11ty/eleventy --serve",
+    "debug": "npm run tokens && DEBUG=Eleventy* npx @11ty/eleventy"
   },
   "devDependencies": {
     "@11ty/eleventy": "^3.0.0"
