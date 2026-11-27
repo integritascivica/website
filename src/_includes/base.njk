@@ -10,6 +10,11 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="color-scheme" content="light dark">
+  {#- Apply a saved theme before the first paint. Without a saved theme, the
+      page obeys the operating system setting. -#}
+  <script>
+    try{var t=localStorage.getItem("theme");if(t==="light"||t==="dark")document.documentElement.setAttribute("data-theme",t)}catch(e){}
+  </script>
   <title>{{ title }} — {{ site.name }}</title>
   <meta name="description" content="{{ description or site.description }}">
   <link rel="canonical" href="{{ site.url }}{{ page.url }}">
@@ -87,6 +92,9 @@
           {%- endfor %}
         </ul>
       </nav>
+      {#- The script at the end of the page shows this button. Without
+          JavaScript, the button stays hidden. -#}
+      <button type="button" class="theme-toggle" aria-pressed="false" hidden>Dark theme</button>
     </div>
   </header>
 
@@ -102,5 +110,40 @@
       <p><a href="/privacy/">Privacy Policy</a></p>
     </div>
   </footer>
+  <script>
+    /* The theme toggle. A choice that is different from the operating system
+       setting is saved as data-theme. A choice that agrees with the setting
+       removes data-theme, and the page obeys the operating system again. */
+    (function () {
+      var button = document.querySelector(".theme-toggle");
+      if (!button || !window.matchMedia) return;
+      var root = document.documentElement;
+      var system = window.matchMedia("(prefers-color-scheme: dark)");
+      function isDark() {
+        var theme = root.getAttribute("data-theme");
+        return theme ? theme === "dark" : system.matches;
+      }
+      function sync() {
+        button.setAttribute("aria-pressed", isDark() ? "true" : "false");
+      }
+      button.addEventListener("click", function () {
+        var next = isDark() ? "light" : "dark";
+        var same = (next === "dark") === system.matches;
+        try {
+          if (same) {
+            root.removeAttribute("data-theme");
+            localStorage.removeItem("theme");
+          } else {
+            root.setAttribute("data-theme", next);
+            localStorage.setItem("theme", next);
+          }
+        } catch (e) {}
+        sync();
+      });
+      if (system.addEventListener) system.addEventListener("change", sync);
+      button.hidden = false;
+      sync();
+    })();
+  </script>
 </body>
 </html>

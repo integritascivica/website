@@ -229,6 +229,26 @@ nav a[aria-current="page"] {
   border-bottom: 2px solid var(--accent);
 }
 
+/* The theme toggle. It has an outline when it is off and a solid accent fill
+   when it is on. Only the fill and the colors change. */
+.theme-toggle {
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  line-height: 1.5;
+  padding: var(--space-1) var(--space-3);
+  border: 1px solid var(--rule);
+  border-radius: var(--radius-xs);
+  background: transparent;
+  color: var(--ink-muted);
+  cursor: pointer;
+}
+
+.theme-toggle[aria-pressed="true"] {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: var(--accent-ink);
+}
+
 /* ===== Main ===== */
 
 main {
