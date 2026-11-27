@@ -16,18 +16,6 @@
   --max-width: 52rem;
 }
 
-/* The logo is black. Invert it in the dark theme. These selectors agree with
-   the dark theme selectors in tokens.css. */
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) .site-logo {
-    filter: invert(1);
-  }
-}
-
-[data-theme="dark"] .site-logo {
-  filter: invert(1);
-}
-
 html {
   font-size: 100%;
   scroll-behavior: smooth;
@@ -193,11 +181,17 @@ header {
   white-space: nowrap;
 }
 
+/* The logo file is a mask. The accent token gives the color, thus the logo
+   follows the light theme and the dark theme. */
 .site-logo {
+  display: inline-block;
   width: 2rem;
   height: 2rem;
   margin-right: var(--space-2);
   vertical-align: middle;
+  background-color: var(--accent);
+  -webkit-mask: url("/assets/ic-logo-accent.svg") center / contain no-repeat;
+  mask: url("/assets/ic-logo-accent.svg") center / contain no-repeat;
 }
 
 nav {
