@@ -1,4 +1,10 @@
 <!DOCTYPE html>
+{#- The wordmark: the two words of the site name with an accent middle dot
+    between them. The dot is decoration, so screen readers ignore it. -#}
+{%- macro wordmark() -%}
+{%- set words = site.name.split(" ") -%}
+<span class="wordmark">{{ words[0] }} <span class="wordmark-dot" aria-hidden="true">&middot;</span> {{ words[1] }}</span>
+{%- endmacro %}
 <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -19,7 +25,10 @@
   <meta name="twitter:card" content="summary">
   <link rel="icon" type="image/svg+xml" href="/assets/ic-logo.svg">
   <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
+  <link rel="preload" href="/css/fonts/lora-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/css/fonts/inter-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="stylesheet" href="/css/fonts.css">
+  <link rel="stylesheet" href="/css/tokens.css">
   <link rel="stylesheet" href="/css/style.css">
   <script type="application/ld+json">
   {
@@ -69,7 +78,7 @@
     <div class="header-inner">
       <a href="/" class="site-title">
         <img src="/assets/ic-logo.svg" alt="" class="site-logo" width="32" height="32">
-        <span>{{ site.name }}</span>
+        {{ wordmark() }}
       </a>
       <nav aria-label="Main navigation">
         <ul>
@@ -89,7 +98,7 @@
 
   <footer>
     <div class="footer-inner">
-      <p>&copy; 2026 {{ site.name }}. All rights reserved.</p>
+      <p>&copy; 2026 {{ wordmark() }}. All rights reserved.</p>
       <p><a href="/privacy/">Privacy Policy</a></p>
     </div>
   </footer>

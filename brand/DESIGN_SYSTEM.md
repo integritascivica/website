@@ -83,6 +83,7 @@ Use the semantic tokens (CSS custom properties generated from
 | `accent-ink` | Text/icon **on** an accent fill (white on caramel, near-black on gold) |
 | `accent-text` | Accent color for **small text on a surface** |
 | `accent-tint` | Low-saturation accent wash for chips, selected rows, hover |
+| `accent-hover` | Hover and pressed fill for accent buttons (text stays `accent-ink`) |
 | `signal-add` / `signal-del` | Reserved green / red for additions+success and removals+error |
 | `signal-add-bg` / `signal-del-bg` | Backgrounds behind an addition/success or removal/error |
 | `status-warning` / `status-warning-bg` | Violet warning/caution and its background |
@@ -121,7 +122,7 @@ style from the group that matches the job:
 - **Interface (Inter)** — `ui-strong`, `ui`, `ui-small`, `eyebrow`
 - **Data (JetBrains Mono)** — `mono`, `mono-num`
 
-The reading tier is `body` (Lora, 17/28). When in doubt about whether text is
+The reading tier is `body` (Lora, 17/28). The pixel sizes are for the app's dense interface; the website keeps its own fluid `rem`/`clamp()` sizes and takes only families, weights and line heights from the tokens. When in doubt about whether text is
 "content" or "interface," ask whether someone reads it in sentences (Lora) or
 scans/acts on it (Inter). CSS variables for the families: `--font-serif`,
 `--font-sans`, `--font-mono`.
@@ -182,6 +183,7 @@ an outline means a Tag.
   with `accent-ink` when on. Change fill and color only, never font weight.
 The old ghost (accent-outline) variant is removed. Radius `radius-xs`, label in
 `ui-strong`. Disabled is 45% opacity, not a recolor.
+Hover: primary goes to `accent-hover`. Focus ring: a 2px `accent` outline with a small offset on every focusable control. Border widths, layout widths and breakpoints are not tokens; set them locally.
 
 ### Tag
 Categories, topics, labels, filters. **Outlined, never solid, never a pill.**

@@ -57,9 +57,9 @@ Markdown content can include inline HTML (cards, CTAs, hero sections).
 
 Single CSS file (`src/css/style.css`) using custom properties defined on `:root`:
 
-- Colors: `--color-text`, `--color-bg`, `--color-surface`, `--color-accent`, `--color-accent-dark`, `--color-border`, `--color-text-light`
-- Spacing: `--space-xs` through `--space-xl`
-- Layout: `--max-width: 48rem`
+- Colors: the design-system tokens from `src/css/tokens.css` (`--ink`, `--surface-page`, `--accent`…). See the Design system section.
+- Spacing: `--space-0.5` through `--space-12` from `src/css/tokens.css`
+- Layout: `--max-width: 52rem`
 - Component classes: `.hero`, `.card-grid`, `.card`, `.btn`, `.btn-primary`, `.btn-secondary`, `.social-links`, `.cta-group`
 - Mobile breakpoint at 640px
 
