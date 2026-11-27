@@ -286,6 +286,9 @@ main {
    buttons. */
 .btn {
   display: inline-block;
+  /* A button element has a default border. Remove it. */
+  border: 0;
+  cursor: pointer;
   padding: var(--space-3) var(--space-6);
   border-radius: var(--radius-xs);
   font-family: var(--font-sans);
@@ -433,6 +436,12 @@ footer {
 .footer-inner {
   max-width: var(--max-width);
   margin: 0 auto;
+}
+
+/* The paragraph width limit moves the centered footer text to the left.
+   Remove the limit here. */
+footer p {
+  max-width: none;
 }
 
 footer a {
