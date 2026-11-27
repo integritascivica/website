@@ -73,36 +73,45 @@ Netlify (`netlify.toml`): runs `npm install && npm run build`, publishes `_site/
 ## Design system (add this block to each repo's CLAUDE.md)
 
 The Integritas Civica design system is the single source of truth for all
-visual styling. It lives as a published artifact; read it before changing
-any UI.
+visual styling. It is committed to this repo under `brand/`; read it before
+changing any UI.
 
-- Brand book: `project/README.md` in the design system — read first.
-- Tokens: `project/tokens.json` — colors (light/dark), type, spacing, radius.
-- Components: `project/components/<Name>/README.md` + `preview.html`.
+- Brand book: `brand/DESIGN_SYSTEM.md` — principles, color, type, components,
+  rules. Read first.
+- Tokens: `brand/tokens.json` — colors (light/dark), type, spacing, radius.
+  The build generates `tokens.css` from this; never edit `tokens.css` by hand.
 
 ### Rules
 
 - Never hardcode a color, font-family, border-radius, or spacing value.
   Reference the generated CSS custom properties (`var(--accent)`,
-  `var(--ink)`, `var(--space-4)`, `var(--radius-sm)`, `var(--font-serif)`…).
+  `var(--ink)`, `var(--space-4)`, `var(--radius-xs)`, `var(--font-serif)`…).
 - The accent is one color with two theme values: burnt caramel `#b45309`
   (light) / bright gold `#fcd34d` (dark). Use `--accent` for fills,
   `--accent-ink` for text ON a fill (white on caramel, near-black on gold —
   never reversed), and `--accent-text` for small accent-colored text on a
   surface (deeper in light mode so it stays legible on white).
-- Red and green are RESERVED for diff/revision semantics only
-  (`--signal-add`, `--signal-del`). Never use them as accent or decoration.
+- Red and green are RESERVED (`--signal-add`, `--signal-del`): additions and
+  success, removals and errors, destructive buttons. Never accent or decoration.
+  Warning is violet (`--status-warning`), never amber.
 - Content vs. interface font split: text people READ in sentences is Lora
   (`--font-serif`); interface people SCAN or operate is Inter
-  (`--font-sans`); data/diffs/IDs/counts are JetBrains Mono
-  (`--font-mono`).
+  (`--font-sans`); data/diffs/IDs/counts are JetBrains Mono (`--font-mono`).
 - Theme switching: `:root` is light; dark comes from
   `@media (prefers-color-scheme: dark) :root:not([data-theme="light"])` and
   from an explicit `[data-theme="dark"]`. Keep all three in sync.
+- Shape says what a thing is: solid fill = button (accent primary, neutral
+  `--surface-strong` secondary, `--signal-del` destructive); underlined text =
+  quiet button; outline = tag/category; pill = status (tinted, never solid). No
+  outlined buttons. Deletes are red underlined text; a solid red button only
+  confirms a deletion in a dialog.
+- Radius has two values: `--radius-xs` (4px) for everything rectangular,
+  `--radius-pill` for status pills and avatars.
 
 ### Regenerating tokens
 
-`tokens.css` is GENERATED from `tokens.json` by `generate_tokens.py` — do
-not edit `tokens.css` by hand. When a token changes in the design system,
-re-run the generator and commit the output. The same `tokens.json` feeds
-both the Next app and the Eleventy site; keep them on the same version.
+`tokens.css` is GENERATED from `brand/tokens.json` by
+`brand/generate_tokens.py` — do not edit `tokens.css` by hand. The `tokens`
+build step runs the generator; `build` (and dev) depend on it. When a token
+changes, update `brand/tokens.json` and rebuild. The same `tokens.json` feeds
+both the app and the website; keep them on the same version.
